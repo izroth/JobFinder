@@ -1,0 +1,18 @@
+{
+  "name": "jobfinder",
+  "version": "1.0.0",
+  "description": "it is backend service which provides data for jobs avilable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lakhan sharma (izroth)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cros": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "express": "^4.18.2"
+  }
+}
